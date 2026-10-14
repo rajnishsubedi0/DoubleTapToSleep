@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Double Tap To Sleep</string>
+    <string name="xposed_description">Double tap the status bar to turn the screen off.</string>
+    <string-array name="xposed_scope">
+        <item>com.android.systemui</item>
+    </string-array>
+</resources>
